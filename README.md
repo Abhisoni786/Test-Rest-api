@@ -93,4 +93,4 @@ One Api client is required
 - [Insomnia Core or Designer](https://insomnia.rest/) *Recommended 
 
 
-Copyright @theninjacoders
+Copyright &copy;[theninjacoders](https://theninjacoder.com/)
